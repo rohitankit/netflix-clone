@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,6 +69,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
+
 # netflix-clone
-Netflix clone using react and firebase
+
+Created a ReactJS Web App which imitates the user interface of netflix using different ReactJS functionality like Components,
+States and Hooks. The Web App is hosted on a firebase back-end and uses TMDB APIs and React Youtube APIs to find
+movies and display their trailers respectively.
+
 >>>>>>> e11817663266dfbdbf9016ab4a27003c0b2a1b75
